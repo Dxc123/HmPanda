@@ -1,0 +1,48 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "Main program entry"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "AnimateRefresh"
+    },
+    {
+      "name": "refresh_default_header_hint",
+      "value": "Pull Down Refresh"
+    },
+    {
+      "name": "refresh_default_header_load",
+      "value": "Release Refresh"
+    },
+    {
+      "name": "refresh_default_header_loading",
+      "value": "Refreshing..."
+    },
+    {
+      "name": "file_index_title",
+      "value": "Cloud space"
+    },
+    {
+      "name": "tab_home",
+      "value": "首页"
+    },
+    {
+      "name": "tab_discover",
+      "value": "发现"
+    },
+    {
+      "name": "tab_message",
+      "value": "消息"
+    },
+    {
+      "name": "tab_me",
+      "value": "我的"
+    }
+  ]
+}
