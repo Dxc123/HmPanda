@@ -9,3 +9,5 @@
 /.clang-format
 /.clang-tidy
 **/.test
+/_generated
+/route_map.json

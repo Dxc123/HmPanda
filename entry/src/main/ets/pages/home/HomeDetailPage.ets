@@ -1,6 +1,6 @@
-@Entry
+@Preview
 @Component
-struct HomeDetailPage {
+export struct HomeDetailPage {
   @State message: string = 'Hello World'
 
   build() {

@@ -10,23 +10,23 @@
     },
     {
       "name": "EntryAbility_label",
-      "value": "AnimateRefresh"
+      "value": "HmPanda"
     },
     {
       "name": "refresh_default_header_hint",
-      "value": "Pull Down Refresh"
+      "value": "下拉刷新"
     },
     {
       "name": "refresh_default_header_load",
-      "value": "Release Refresh"
+      "value": "松开刷新"
     },
     {
       "name": "refresh_default_header_loading",
-      "value": "Refreshing..."
+      "value": "正在刷新..."
     },
     {
       "name": "file_index_title",
-      "value": "Cloud space"
+      "value": "云空间"
     },
     {
       "name": "tab_home",
@@ -43,6 +43,10 @@
     {
       "name": "tab_me",
       "value": "我的"
+    },
+    {
+      "name": "advertising_text_title",
+      "value": "跳过 %ds"
     }
   ]
 }

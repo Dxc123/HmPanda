@@ -1,0 +1,65 @@
+{
+  "routerMap": [
+    {
+      "name": "loginView",
+      "pageSourceFile": "src/main/ets/_generated/ZRLoginPage.ets",
+      "buildFunction": "entryLoginPageBuilder",
+      "data": {
+        "description": "登录页",
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "mainPage",
+      "pageSourceFile": "src/main/ets/_generated/ZRMainPage.ets",
+      "buildFunction": "entryMainPageBuilder",
+      "data": {
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "MINE_COLLECTION_VIEW",
+      "pageSourceFile": "src/main/ets/_generated/ZRMeCollectionPage.ets",
+      "buildFunction": "entryMeCollectionPageBuilder",
+      "data": {
+        "description": "收藏页",
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "MINE_FOCUS_VIEW",
+      "pageSourceFile": "src/main/ets/_generated/ZRMeFocusPage.ets",
+      "buildFunction": "entryMeFocusPageBuilder",
+      "data": {
+        "description": "关注页",
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "meLikeView",
+      "pageSourceFile": "src/main/ets/_generated/ZRMeLikePage.ets",
+      "buildFunction": "entryMeLikePageBuilder",
+      "data": {
+        "description": "喜欢页",
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "MINE_SETTING_VIEW",
+      "pageSourceFile": "src/main/ets/_generated/ZRSettingPage.ets",
+      "buildFunction": "entryMeSettingPageBuilder",
+      "data": {
+        "description": "设置页",
+        "needLogin": "false"
+      }
+    },
+    {
+      "name": "splashPage",
+      "pageSourceFile": "src/main/ets/_generated/ZRSplashPage.ets",
+      "buildFunction": "entrySplashPageBuilder",
+      "data": {
+        "needLogin": "false"
+      }
+    }
+  ]
+}

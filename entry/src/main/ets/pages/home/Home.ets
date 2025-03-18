@@ -1,6 +1,7 @@
 import router from '@ohos.router';
 import { BusinessError } from '@ohos.base';
 
+@Preview
 @Component
 export default struct Home {
   build(){
